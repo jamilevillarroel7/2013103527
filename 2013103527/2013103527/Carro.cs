@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _2013103527
 {
-    public class Carro
+    abstract class Carro
     {
         Parabrisas _Parabrisas;
         Volante _Volante;
