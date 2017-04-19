@@ -1,0 +1,24 @@
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.csprojResolveAssemblyReference.cache
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.exe.config
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.exe
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.exe
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject\obj\Debug\ensambladoraProject.pdb
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.exe.config
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.exe
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.pdb
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.dll
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.pdb
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.exe
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.pdb
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.exe.config
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.exe
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.pdb
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.dll
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\bin\Debug\ensambladoraProject.Entities.pdb
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.exe
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject\obj\Debug\ensambladoraProject.pdb

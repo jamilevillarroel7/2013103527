@@ -1,0 +1,15 @@
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.pdb
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+D:\USMP\CICLO-VIIII\PROGRAMACION I\2013106853-master\2013106853-master\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.dll
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.pdb
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+C:\Users\Gerson Romero\Documents\Visual Studio 2017\Projects\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.dll
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject.Entities\bin\Debug\ensambladoraProject.Entities.pdb
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.csprojResolveAssemblyReference.cache
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.dll
+C:\Users\jamil\Desktop\2013223347\2013223347\ensambladoraProject.Entities\obj\Debug\ensambladoraProject.Entities.pdb
